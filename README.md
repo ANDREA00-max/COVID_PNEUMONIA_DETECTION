@@ -20,4 +20,4 @@ In the Jupiter notebook you can find all the processing steps:
 
 - RESNET TRAINING -
 
-- CAM FOR THE CLASS : viral, covid, normal
+- CAM FOR THE CLASSES : viral, covid, normal
